@@ -1,0 +1,16 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        int x = 10;
+        int y = 77;
+        
+    int a = x + y ;
+    int w = x * y ;
+    boolean ah= a < w;
+    
+           System.out.println(x);
+             System.out.println(y);
+              System.out.println(ah);
+     }
+}
